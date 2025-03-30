@@ -24,7 +24,7 @@ Initially designed for those who have experienced device I/O errors while copyin
 
 ## Installation and Usage
 1. Connect your iPhone to the PC and make sure it is detected by Windows Explorer.
-2. Run the `copycop.exey` program.
+2. Run the `copycop.exe` program.
 3. Select the device and the destination folder.
 4. Press the 'Iniciar Backup' button and wait while the program indexes the remote device files before beginning the backup process.
 
