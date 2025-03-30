@@ -29,7 +29,7 @@ Initially designed for those who have experienced device I/O errors while copyin
 4. Press the 'Iniciar Backup' button and wait while the program indexes the remote device files before beginning the backup process.
 
 ## Screenshot
-![CopyCop Interface](images/CopyCop.png)
+![CopyCop Interface](images/copycop.png)
 
 ## License
 This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
