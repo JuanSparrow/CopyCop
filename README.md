@@ -6,10 +6,6 @@ The easiest and fastest way to copy your photos and videos from your iPhone to y
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-orange)
 
-## Patrocíname
-
-Si te gusta este proyecto, puedes patrocinarme para ayudarme a seguir mejorando.
-
 [![Sponsor](https://img.shields.io/badge/sponsor-GitHub-yellow?logo=github)](https://github.com/sponsors/JuanSparrow)
 
 **CopyCop** is an automated backup tool for iPhone devices on Windows. It allows you to securely and efficiently copy images and videos from the `DCIM` folder of a connected iPhone to a local folder.
@@ -36,6 +32,12 @@ Initially designed for those who have experienced device I/O errors while copyin
 
 ## Screenshot
 ![CopyCop Interface](images/copycop.png)
+
+## ☕ Sponsor Me
+
+If you find this tool useful and want to support its development:
+
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub-yellow?logo=github)](https://github.com/sponsors/LimiteCero)
 
 ## License
 This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
